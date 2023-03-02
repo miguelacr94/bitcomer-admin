@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="91" height="90" viewBox="0 0 91 90">
+  <g id="Icon" transform="translate(0 -0.008)">
+    <rect id="Area" width="91" height="90" transform="translate(0 0.008)" fill="#fcfcfc" opacity="0"/>
+    <g id="Icon-2" data-name="Icon" transform="translate(0.746 0.5)">
+      <path id="_056062d8-949f-41c3-a899-4025a73bf549" data-name="056062d8-949f-41c3-a899-4025a73bf549" d="M0,0H90V90H0Z" transform="translate(-0.246 -0.492)" fill="none"/>
+      <path id="_2505b118-fb8a-4101-ae78-87782b457ec5" data-name="2505b118-fb8a-4101-ae78-87782b457ec5" d="M41.25,26.25a15,15,0,1,1-15-15A15,15,0,0,1,41.25,26.25Z" transform="translate(-0.246 -0.492)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5"/>
+      <path id="_3dd6016f-4744-4d71-8408-934aa2b7507d" data-name="3dd6016f-4744-4d71-8408-934aa2b7507d" d="M26.25,11.25v15h15" transform="translate(-0.246 -0.492)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5"/>
+      <path id="e4fc4f3e-da9f-4fbd-99d3-f10ef1d6d58e" d="M33.75,63.75v15" transform="translate(-0.246 -0.492)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5"/>
+      <path id="_95a69eaa-f6ba-46a6-a546-f5a280ad2775" data-name="95a69eaa-f6ba-46a6-a546-f5a280ad2775" d="M63.75,52.5V78.75" transform="translate(-0.246 -0.492)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5"/>
+      <path id="_0ee28c11-c26a-40ea-8eb5-e90ed76725ec" data-name="0ee28c11-c26a-40ea-8eb5-e90ed76725ec" d="M48.75,48.75v30" transform="translate(-0.246 -0.492)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5"/>
+      <path id="fa6af334-1ea6-41d5-b0c4-bf35d0f33c1f" d="M78.75,45V78.75" transform="translate(-0.246 -0.492)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5"/>
+    </g>
+  </g>
+</svg>

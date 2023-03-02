@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="91" height="90" viewBox="0 0 91 90">
+  <g id="Icon" transform="translate(0 -0.008)">
+    <rect id="Area" width="91" height="90" transform="translate(0 0.008)" fill="none" opacity="0"/>
+    <g id="Icon-2" data-name="Icon" transform="translate(0.746 0.5)">
+      <path id="e65cf27a-d9fc-4de8-a9f0-eec57acc6074" d="M0,0H90V90H0Z" transform="translate(-0.246 -0.492)" fill="none"/>
+      <path id="_5ad08374-e5f4-4b41-aa51-f334927726a4" data-name="5ad08374-e5f4-4b41-aa51-f334927726a4" d="M15,45H30a3.75,3.75,0,0,1,3.75,3.75v22.5A3.75,3.75,0,0,1,30,75H15a3.75,3.75,0,0,1-3.75-3.75V48.75A3.75,3.75,0,0,1,15,45Z" transform="translate(-0.246 -0.492)" fill="none" stroke="#4451bd" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.5"/>
+      <path id="_1b47209e-6066-4184-b612-fae6d25d2196" data-name="1b47209e-6066-4184-b612-fae6d25d2196" d="M37.5,30h15a3.75,3.75,0,0,1,3.75,3.75v37.5A3.75,3.75,0,0,1,52.5,75h-15a3.75,3.75,0,0,1-3.75-3.75V33.75A3.75,3.75,0,0,1,37.5,30Z" transform="translate(-0.246 -0.492)" fill="none" stroke="#4451bd" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.5"/>
+      <path id="e3d3966c-71b7-4ffe-9b4d-6b6fb9eb1ce1" d="M60,15H75a3.75,3.75,0,0,1,3.75,3.75v52.5A3.75,3.75,0,0,1,75,75H60a3.75,3.75,0,0,1-3.75-3.75V18.75A3.75,3.75,0,0,1,60,15Z" transform="translate(-0.246 -0.492)" fill="none" stroke="#4451bd" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.5"/>
+      <path id="_9924b4de-67a9-4126-8a59-fa2376b40d62" data-name="9924b4de-67a9-4126-8a59-fa2376b40d62" d="M15,75H67.5" transform="translate(-0.246 -0.492)" fill="none" stroke="#4451bd" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.5"/>
+    </g>
+  </g>
+</svg>

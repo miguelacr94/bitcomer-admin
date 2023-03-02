@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Icon" transform="translate(0 0)">
+    <g id="Area" opacity="0">
+      <rect id="Area-2" data-name="Area" width="20" height="20" fill="#5768f3"/>
+      <path id="Area_-_Contorno" data-name="Area - Contorno" d="M1,1V19H19V1H1M0,0H20V20H0Z" fill="#fd49c6"/>
+    </g>
+    <g id="Icon-2" data-name="Icon" transform="translate(1.29 2.499)">
+      <rect id="_4b264b7c-d758-4610-bed7-a5634723ae3f" data-name="4b264b7c-d758-4610-bed7-a5634723ae3f" width="7.778" height="7.778" transform="translate(-1.29 -2.499)" fill="#5768f3"/>
+      <rect id="_73e98900-5bc1-4ffc-98f0-0a547d4b83f4" data-name="73e98900-5bc1-4ffc-98f0-0a547d4b83f4" width="7.778" height="7.778" transform="translate(10.932 -2.499)" fill="#5768f3"/>
+      <rect id="_333df5a0-621d-4986-9b2b-6e2cb9b18f48" data-name="333df5a0-621d-4986-9b2b-6e2cb9b18f48" width="7.778" height="7.778" transform="translate(10.932 9.723)" fill="#5768f3"/>
+      <rect id="_984d2bcc-4024-4a7e-b95d-32bef8c7bc4e" data-name="984d2bcc-4024-4a7e-b95d-32bef8c7bc4e" width="7.778" height="7.778" transform="translate(-1.29 9.723)" fill="#5768f3"/>
+    </g>
+  </g>
+</svg>

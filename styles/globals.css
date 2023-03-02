@@ -1,0 +1,124 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  /* font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif; */
+  font-family: "Poppins";
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+
+  body {
+    color: white;
+    background: white
+  }
+}
+
+/* tbody.rowAlternate tr:nth-child(odd) {
+  background-color: #EDF2F7;
+}
+
+tbody.rowAlternate tr:nth-child(even) {
+  background-color: #fff;
+} */
+
+.gadget {
+  background: #5768F3;
+  background: linear-gradient(to bottom, #5768F3 10%, #404FC4 75%);
+}
+
+::-webkit-scrollbar {
+  -webkit-appearance: none;
+}
+
+::-webkit-scrollbar:vertical {
+  width: 8px;
+}
+
+::-webkit-scrollbar-button:increment,
+::-webkit-scrollbar-button {
+  display: none;
+}
+
+::-webkit-scrollbar:horizontal {
+  height: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #797979;
+  border-radius: 20px;
+  border: 2px solid #f1f2f3;
+}
+
+::-webkit-scrollbar-track {
+  border-radius: 10px;
+}
+
+
+canvas {
+  display: block;
+  box-sizing: border-box;
+  height: 230px !important;
+
+  width: 100% !important;
+}
+
+
+.imgLogin {
+  background-image: url(../public/image/fondoLogin.svg);
+  background-size: 90vw 102vh;
+  margin-top: -1px;
+  height: 101vh;
+  background-repeat: no-repeat;
+}
+
+.pagination {
+  display: flex !important;
+  justify-content: center !important;
+  margin-top: 10px !important;
+}
+
+
+.pagination-item {
+  width: 1.3rem;
+  height: 1.3rem;
+  border-radius: 50%;
+  font-size: 1rem;
+  color: grey;
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  background-color: #bebebe;
+}
+
+.active {
+  color: white !important;
+  background-color: #5768F3;
+}
+
+.admin {
+  border-radius: 30px;
+  border-top-right-radius: 0;
+}
+
+.client {
+  border-radius: 30px;
+  border-top-left-radius: 0;
+}

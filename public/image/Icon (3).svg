@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="47" height="45" viewBox="0 0 47 45">
+  <g id="Icon" transform="translate(1.5 0.5)">
+    <rect id="Area" width="44" height="44" fill="#fcfcfc" opacity="0"/>
+    <g id="Icon-2" data-name="Icon" transform="translate(0 1)">
+      <ellipse id="f2c4525e-f1c8-4319-a52d-68549179b03b" cx="2" cy="2" rx="2" ry="2" transform="translate(14 38)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <ellipse id="_86984bdb-9c28-4f57-90f0-d334f948952a" data-name="86984bdb-9c28-4f57-90f0-d334f948952a" cx="2" cy="2" rx="2" ry="2" transform="translate(36 38)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="c34a9ada-932f-4b0b-b6f2-ff0213eeb5a5" d="M.909.909h8L14.27,27.69a4,4,0,0,0,4,3.219H37.708a4,4,0,0,0,4-3.219l3.2-16.779h-34" transform="translate(-0.909 -0.909)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
